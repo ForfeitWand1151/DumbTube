@@ -1,0 +1,27 @@
+# arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# logs
+*.log
+
+# arquivos temporários
+*.tmp
+*.temp
+
+# cache
+.cache/
+.cache-loader/
+
+# dependências (caso use no futuro)
+node_modules/
+
+# arquivos de ambiente
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Python (caso rode servidor local)
+__pycache__/
