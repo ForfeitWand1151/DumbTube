@@ -1,1 +1,31 @@
+<<<<<<< HEAD
 *.bat
+=======
+# arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# logs
+*.log
+
+# arquivos temporários
+*.tmp
+*.temp
+
+# cache
+.cache/
+.cache-loader/
+
+# dependências (caso use no futuro)
+node_modules/
+
+# arquivos de ambiente
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Python (caso rode servidor local)
+__pycache__/
+>>>>>>> 603f0858e704fd282ef89af6000fc0f83aa5cb5a
